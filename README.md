@@ -1,5 +1,5 @@
 # Agentic-Ai
-Execellence onf Agentic Ai Concepts, RAG, LLM, System Design and Architecture
+Execellence on Agentic Ai Concepts, RAG, LLM, System Design and Architecture
 
 ## 🚀 Mastering Agentic AI, RAG, and LLM Engineering
 
